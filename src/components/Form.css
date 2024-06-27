@@ -1,0 +1,12 @@
+
+li{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: whitesmoke;
+  padding: 10px;
+  margin-bottom: 20px;
+  align-items: center;
+  border-radius: 30px;
+  color: #213547;
+  }
